@@ -1,1 +1,4 @@
-# lin-tree.github.io
+# Lin Tree
+
+Blog project for lin tree
+
